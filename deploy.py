@@ -1,3 +1,6 @@
+## this was done by using only open source model using ollama
+
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 from langchain.prompts import ChatPromptTemplate
